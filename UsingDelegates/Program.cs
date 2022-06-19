@@ -11,7 +11,10 @@ namespace UsingDelegates
     {
         public static void Main(string[] args)
         {
-            MathDelegate mathOperation = Add;
+            //Create MathDelegate object
+            //that "point to" Mathe.Add
+            
+            MathDelegate mathOperation = new MathDelegate(Mathe.Add);
             int a = 5;
             int b = 7;
 
@@ -23,18 +26,7 @@ namespace UsingDelegates
 
 
 
-        public static int Add(int a, int b)
-        {
-            return a + b;
-        }
-        public static int Subtract(int a, int b)
-        {
-            return a - b;
-        }
-        public static int Power(int baseNumber, int exponent)
-        {
-            return (int)Math.Pow(baseNumber, exponent);
-        }
+       
 
 
     }
