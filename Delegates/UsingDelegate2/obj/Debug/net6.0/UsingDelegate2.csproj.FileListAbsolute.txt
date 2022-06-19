@@ -1,0 +1,15 @@
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\obj\Debug\net6.0\UsingDelegate2.csproj.AssemblyReference.cache
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\obj\Debug\net6.0\UsingDelegate2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\obj\Debug\net6.0\UsingDelegate2.AssemblyInfoInputs.cache
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\obj\Debug\net6.0\UsingDelegate2.AssemblyInfo.cs
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\obj\Debug\net6.0\UsingDelegate2.csproj.CoreCompileInputs.cache
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\bin\Debug\net6.0\UsingDelegate2.exe
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\bin\Debug\net6.0\UsingDelegate2.deps.json
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\bin\Debug\net6.0\UsingDelegate2.runtimeconfig.json
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\bin\Debug\net6.0\UsingDelegate2.dll
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\bin\Debug\net6.0\UsingDelegate2.pdb
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\obj\Debug\net6.0\UsingDelegate2.dll
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\obj\Debug\net6.0\refint\UsingDelegate2.dll
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\obj\Debug\net6.0\UsingDelegate2.pdb
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\obj\Debug\net6.0\UsingDelegate2.genruntimeconfig.cache
+C:\C#\repos\AdvancedCSharp\UsingDelegate2\obj\Debug\net6.0\ref\UsingDelegate2.dll
