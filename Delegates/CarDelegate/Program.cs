@@ -12,6 +12,8 @@ Car c1 = new Car("SlugBug", 100, 10);
 // when it wants to send us messages.
 c1.RegisterWithCarEngine(
  new Car.CarEngineHandler(OnCarEngineEvent));
+c1.RegisterWithCarEngine(
+ new Car.CarEngineHandler(OnCarEngineEvent2));
 
 // Speed up (this will trigger th events).
 Console.WriteLine("***** Speeding up *****");
@@ -27,4 +29,9 @@ static void OnCarEngineEvent(string msg)
     Console.WriteLine("\n*** Message From Car Object ***");
     Console.WriteLine("=> {0}", msg);
     Console.WriteLine("********************\n");
+}
+
+static void OnCarEngineEvent2(string msg)
+{
+    Console.WriteLine("=> {0}", msg.ToUpper());
 }

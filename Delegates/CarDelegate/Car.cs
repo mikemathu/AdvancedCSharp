@@ -33,7 +33,9 @@ namespace CarDelegate
         // 3) Add registration function for the caller.
         public void RegisterWithCarEngine(CarEngineHandler methodToCall)
         {
-            _listOfHandlers = methodToCall;
+            //_listOfHandlers = methodToCall; //adds single method to a delegate
+            _listOfHandlers += methodToCall; //adds miltiple methods to a delegate (multicasting)
+
         }
 
 
