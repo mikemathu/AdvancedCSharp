@@ -1,0 +1,15 @@
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\bin\Debug\net6.0\CarDelegate.exe
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\bin\Debug\net6.0\CarDelegate.deps.json
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\bin\Debug\net6.0\CarDelegate.runtimeconfig.json
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\bin\Debug\net6.0\CarDelegate.dll
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\bin\Debug\net6.0\CarDelegate.pdb
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\obj\Debug\net6.0\CarDelegate.csproj.AssemblyReference.cache
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\obj\Debug\net6.0\CarDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\obj\Debug\net6.0\CarDelegate.AssemblyInfoInputs.cache
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\obj\Debug\net6.0\CarDelegate.AssemblyInfo.cs
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\obj\Debug\net6.0\CarDelegate.csproj.CoreCompileInputs.cache
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\obj\Debug\net6.0\CarDelegate.dll
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\obj\Debug\net6.0\refint\CarDelegate.dll
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\obj\Debug\net6.0\CarDelegate.pdb
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\obj\Debug\net6.0\CarDelegate.genruntimeconfig.cache
+C:\C#\repos\AdvancedCSharp\Delegates\CarDelegate\obj\Debug\net6.0\ref\CarDelegate.dll
