@@ -38,6 +38,12 @@ namespace CarDelegate
 
         }
 
+        //allows the caller to remove a method from the invocation
+        public void UnRegisterWithCarEngine(CarEngineHandler methodToCall)
+        {
+            _listOfHandlers -= methodToCall;
+        }
+
 
 
         // 4) Implement the Accelerate() method to invoke the delegate's
